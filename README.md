@@ -6,7 +6,7 @@ A heroku plugin to return your current API rate-limits. (Requests to this endpoi
 ### Installation
 
 ```bash
-$ heroku plugins:install git://github.com/jmccartie/heroku-rate-limits.git
+$ heroku plugins:install heroku-rate-limits
 ```
 
 ### Usage
