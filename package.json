@@ -1,6 +1,6 @@
 {
   "name": "heroku-rate-limits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check remaining API calls",
   "main": "index.js",
   "author": "Jon Mccartie @jmccartie",
@@ -14,5 +14,8 @@
   "keywords": [
     "heroku-plugin"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "heroku-cli-util": "^5.0.2"
+  }
 }
